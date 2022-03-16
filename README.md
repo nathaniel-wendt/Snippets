@@ -11,3 +11,6 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 - [Create a folder using the Github web interface](Github/create-folder-using-web-interface.md)
 - [Move a file between folders in Github](/Github/move-file-between-folders.md)
 - [Rename a folder in Github](Github/rename-folder-in-github.md)
+
+## JavaScript
+- [How to use Regex in JavaScript (External)](https://dev.to/char502/how-to-use-regular-expressions-in-javascript-5n2)
