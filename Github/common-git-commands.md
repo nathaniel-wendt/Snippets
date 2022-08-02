@@ -17,6 +17,6 @@ action | command
 ---|---
 to stash | ```git stash```
 to view | ```git stash list```
-most recent | ```git stash apply```
-select | ```git stash applly stash@{2}```
+apply most recent | ```git stash apply```
+select specific | ```git stash apply stash@{2}```
 delete all | ```git stash clear```
