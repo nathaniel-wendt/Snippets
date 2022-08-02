@@ -20,3 +20,13 @@ to view | ```git stash list```
 apply most recent | ```git stash apply```
 select specific | ```git stash apply stash@{2}```
 delete all | ```git stash clear```
+
+---
+When making changes to my local `.gitignore`, run the following to prevent it from showing in staged changes:
+```
+git update-index --skip-worktree <file_name>
+```
+If I ever need to undo this, I can run:
+```
+git -update-index no-skip-worktree .gitignore
+```
