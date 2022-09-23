@@ -15,3 +15,4 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 
 ## JavaScript
 - [How to use Regex in JavaScript (External)](https://dev.to/char502/how-to-use-regular-expressions-in-javascript-5n2)
+- [Debugging](JavaScript/debugging.md)
