@@ -16,3 +16,7 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 ## JavaScript
 - [How to use Regex in JavaScript (External)](https://dev.to/char502/how-to-use-regular-expressions-in-javascript-5n2)
 - [Debugging](JavaScript/debugging.md)
+
+## RegExp
+- [RegEx cheatsheet](https://dev.to/emmabostian/regex-cheat-sheet-2j2a)
+- [Regex101.com (Tool)](https://regex101.com/)
