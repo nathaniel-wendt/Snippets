@@ -22,6 +22,19 @@ apply most recent | ```git stash apply```
 select specific | ```git stash apply stash@{2}```
 delete all | ```git stash clear```
 
+## Making Commits
+action | command
+---|---
+stage a single file | ```git add myFile.js```
+stage all files | ```git add .```
+unstage a file (keep changes) | ```git restore --staged myFile.js```
+unstage a file (discard) | ```git restore myFile.js```
+create commit | ```git commit```
+create commit (shorthand) | ```git commit -m "your commit title"```
+save commit message (vim) | ```:wq```
+abort mid message (vim) | ```:cq```
+
+
 ---
 When making changes to my local `.gitignore`, run the following to prevent it from showing in staged changes:
 ```
