@@ -37,11 +37,7 @@ abort mid message (vim) | ```:cq```
 
 
 ---
-When making changes to my local `.gitignore`, run the following to prevent it from showing in staged changes:
-```
-git update-index --skip-worktree <file_name>
-```
-If I ever need to undo this, I can run:
-```
-git -update-index no-skip-worktree .gitignore
-```
+
+
+### Resources
+- [Common Git commands every tester should know](https://devqa.io/git-cheat-sheet-for-testers/)
