@@ -27,6 +27,7 @@ action | command
 ---|---
 stage a single file | ```git add myFile.js```
 stage all files | ```git add .```
+unstage all files (keep changes) | ```git reset```
 unstage a file (keep changes) | ```git restore --staged myFile.js```
 unstage a file (discard) | ```git restore myFile.js```
 create commit | ```git commit```
