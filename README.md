@@ -21,3 +21,6 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 ## RegExp
 - [RegEx cheatsheet](https://dev.to/emmabostian/regex-cheat-sheet-2j2a)
 - [Regex101.com (Tool)](https://regex101.com/)
+
+## Scripting
+- [Creating a Shell Script](Scripting/Executing-Scripts.md)
