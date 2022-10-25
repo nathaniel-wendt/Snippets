@@ -24,5 +24,5 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 
 ## Scripting
 - [Creating a Shell Script](Scripting/executing-scripts.md)
-- [Run shell script from AppleScript](Scripting/run-shell-script-from-applescript.md)
+- [Run shell script from Mac Menu Bar](Scripting/run-shell-script-from-applescript.md)
 - [Create native Mac Applications from command line scripts](https://sveinbjorn.org/platypus)
