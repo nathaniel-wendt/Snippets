@@ -18,3 +18,8 @@ else
 	killall Finder;
 fi"
 ```
+
+### Resources
+- [How to Turn Bash Scripts Into Clickable Apps Using AppleScript](https://www.makeuseof.com/tag/applescript-bash-scripts-apps/)
+- [How to Get Started with AppleScript](https://medium.com/@Times_New_Rohan/how-to-get-started-with-applescript-c57c5555d55e)
+- [How to run a Shell Script from an AppleScript?](https://apple.stackexchange.com/questions/235167/how-to-run-a-shell-script-from-an-applescript)
