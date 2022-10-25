@@ -23,4 +23,5 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 - [Regex101.com (Tool)](https://regex101.com/)
 
 ## Scripting
-- [Creating a Shell Script](Scripting/Executing-Scripts.md)
+- [Creating a Shell Script](Scripting/executing-scripts.md)
+- [Run shell script from AppleScript](Scripting/run-shell-script-from-applescript.md)
