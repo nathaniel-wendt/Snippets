@@ -16,10 +16,11 @@ Revert 'Undo last commit' | ```git reset --soft HEAD@{1}```
 ## Stashing Changes
 action | command
 ---|---
-to stash | ```git stash```
-to view | ```git stash list```
-apply most recent | ```git stash apply```
-select specific | ```git stash apply stash@{2}```
+create a stash | ```git stash```
+view all stashes | ```git stash list```
+apply most recent (keep stash) | ```git stash apply```
+apply most recent (delete stash) | ```git stash pop```
+apply a specific stash | ```git stash apply stash@{2}```
 delete all | ```git stash clear```
 
 ## Making Commits
@@ -29,7 +30,7 @@ stage a single file | ```git add myFile.js```
 stage all files | ```git add .```
 unstage all files (keep changes) | ```git reset```
 unstage a file (keep changes) | ```git restore --staged myFile.js```
-unstage a file (discard) | ```git restore myFile.js```
+unstage a file (delete changes) | ```git restore myFile.js```
 create commit | ```git commit```
 create commit (shorthand) | ```git commit -m "your commit title"```
 save commit message (vim) | ```:wq```
