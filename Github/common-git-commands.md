@@ -42,3 +42,4 @@ abort mid message (vim) | ```:cq```
 
 ### Resources
 - [Common Git commands every tester should know](https://devqa.io/git-cheat-sheet-for-testers/)
+- [Practical guide to using the git stash command](https://opensource.com/article/21/4/git-stash)
