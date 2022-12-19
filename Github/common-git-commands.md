@@ -8,6 +8,7 @@ View all remote branches | ```git branch -r```
 View current branch info | ```git status```
 Switching branches | ```git checkout <branch-name>```
 Create and switch to new local branch | ```git checkout -b <branch-name>```
+Create branch from another branch | ```git checkout -b <new-branch> <existing-branch>```
 Delete/Force Delete Local Branch | ```git branch -d <local-branch>``` <br /> ```git branch -D <local-branch>```
 Nuke all local changes (revert to mainline) | ```git reset --hard origin/mainline```
 Undo last commit (but keep changes) | ```git reset --soft HEAD~1```
