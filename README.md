@@ -26,3 +26,8 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 - [Creating a Shell Script](Scripting/executing-scripts.md)
 - [Run shell script from Mac Menu Bar](Scripting/run-shell-script-from-applescript.md)
 - [Create native Mac Applications from command line scripts](https://sveinbjorn.org/platypus)
+
+## Terminology
+- [Bikeshedding (Parkinson's law of triviality)](https://www.techtarget.com/whatis/definition/Parkinsons-law-of-triviality-bikeshedding) - Wasting time and energy on trivial details rather than addressing important matters.
+- [Brooks's Law](https://en.wikipedia.org/wiki/Brooks%27s_law) - Adding manpower to a software project that is behind schedule delays it even longer.
+- [Goodhart's Law](https://sketchplanations.com/goodharts-law) - When a measure becomes a target, it ceases to be a good measure.
