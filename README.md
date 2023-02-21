@@ -31,3 +31,4 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 - [Bikeshedding (Parkinson's law of triviality)](https://www.techtarget.com/whatis/definition/Parkinsons-law-of-triviality-bikeshedding) - Wasting time and energy on trivial details rather than addressing important matters.
 - [Brooks's Law](https://en.wikipedia.org/wiki/Brooks%27s_law) - Adding manpower to a software project that is behind schedule delays it even longer.
 - [Goodhart's Law](https://sketchplanations.com/goodharts-law) - When a measure becomes a target, it ceases to be a good measure.
+- [Pairwise Testing (all-pairs)](https://www.hcltech.com/technology-qa/what-is-pairwise-testing) - method of finding defects by using a combinational method of two test cases.
