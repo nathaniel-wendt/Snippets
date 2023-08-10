@@ -4,6 +4,7 @@ My ever-growing™ collection of helpful tips that I've learned related to devel
 ## Accessibility
 - [Add Navigation Skip Link](Accessibility/adding-a-skip-link.md)
 - [Improve 'Learn More' Links](Accessibility/create-better-learn-more-links.md)
+- [Modals](Accessibility/modals.md)
 
 
 ## Git/Github
