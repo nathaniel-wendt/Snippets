@@ -39,7 +39,18 @@ abort mid message (vim) | ```:cq```
 
 
 ---
+## Permanently remove commits from your remote branch
 
+⚠️ only do this if nobody has checked out your code
+1. checkout your local branch ```git checkout <branch-name>```
+2. use ```git log``` to copy the commit hash
+3. delete the commit ```git reset --hard <sha>```
+4. push your change to remote ```git push --force```
+
+If you want to delete your latest commit use the shorthand:
+1. checkout your local branch ```git checkout <branch-name>```
+2. delete the latest commit ```git reset --hard HEAD^``` (```HEAD~2``` for last 2 commits, etc.)
+3. push your change to remote ```git push --force```
 
 ### Resources
 - [Common Git commands every tester should know](https://devqa.io/git-cheat-sheet-for-testers/)
